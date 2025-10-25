@@ -21,7 +21,7 @@ const Header = () => {
       {/* Logo */}
       <div className="flex gap-2 items-center">
         <Image src={"/logo.svg"} width={35} height={35} alt="logo" />
-        <h2 className="font-bold text-xl">AI Website Generator</h2>
+        <h2 className="font-bold text-xl">AI Website Generator Ravindra</h2>
       </div>
 
       {/* Menu Options */}
